@@ -54,3 +54,8 @@ CREATE TABLE property_reviews (
 \dt
 
 -- to run : \i migrations/01_schema.sql
+
+
+
+
+  
